@@ -1,0 +1,105 @@
+{
+  "companies": [
+    {
+      "id": 1,
+      "name": "Google",
+      "domain": "Technology",
+      "roles": [
+        {
+          "title": "Software Engineer I",
+          "level": "Entry Level",
+          "required_skills": ["Python", "Java", "Data Structures", "Algorithms", "Problem Solving"],
+          "tools": ["Git", "Linux", "VS Code"]
+        },
+        {
+          "title": "Software Engineer II",
+          "level": "Mid Level",
+          "required_skills": ["Python", "Java", "System Design", "Microservices", "Cloud Computing"],
+          "tools": ["Docker", "Kubernetes", "AWS"]
+        },
+        {
+          "title": "Senior Software Engineer",
+          "level": "Advanced",
+          "required_skills": ["System Architecture", "Team Leadership", "Project Management", "Cloud Architecture"],
+          "tools": ["AWS", "Terraform", "Jenkins"]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Microsoft",
+      "domain": "Technology",
+      "roles": [
+        {
+          "title": "Cloud Engineer",
+          "level": "Entry Level",
+          "required_skills": ["Azure", "AWS", "Linux", "Networking", "Scripting"],
+          "tools": ["Azure CLI", "PowerShell", "Docker"]
+        },
+        {
+          "title": "Solutions Architect",
+          "level": "Advanced",
+          "required_skills": ["Solution Design", "Enterprise Architecture", "Security", "Client Management"],
+          "tools": ["Azure", "Visio", "Draw.io"]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Amazon",
+      "domain": "E-commerce & Cloud",
+      "roles": [
+        {
+          "title": "SDE I",
+          "level": "Entry Level",
+          "required_skills": ["Java", "C++", "Data Structures", "Algorithms", "Object-Oriented Design"],
+          "tools": ["IntelliJ", "Git", "Maven"]
+        },
+        {
+          "title": "SDE II",
+          "level": "Mid Level",
+          "required_skills": ["Java", "Distributed Systems", "AWS", "System Design", "Microservices"],
+          "tools": ["AWS", "Docker", "Kafka"]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Meta",
+      "domain": "Social Media",
+      "roles": [
+        {
+          "title": "Frontend Engineer",
+          "level": "Entry Level",
+          "required_skills": ["React", "JavaScript", "HTML/CSS", "UI/UX Basics", "Web Performance"],
+          "tools": ["Figma", "Chrome DevTools", "Webpack"]
+        },
+        {
+          "title": "ML Engineer",
+          "level": "Advanced",
+          "required_skills": ["Python", "TensorFlow", "PyTorch", "NLP", "Computer Vision"],
+          "tools": ["Jupyter", "TensorBoard", "Kaggle"]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Apple",
+      "domain": "Consumer Electronics",
+      "roles": [
+        {
+          "title": "iOS Developer",
+          "level": "Entry Level",
+          "required_skills": ["Swift", "iOS SDK", "Xcode", "UIKit", "Core Data"],
+          "tools": ["Xcode", "CocoaPods", "TestFlight"]
+        },
+        {
+          "title": "Hardware Engineer",
+          "level": "Advanced",
+          "required_skills": ["Circuit Design", "PCB", "Embedded Systems", "C/C++", "FPGA"],
+          "tools": ["Altium", "MATLAB", "SPICE"]
+        }
+      ]
+    }
+  ]
+}
