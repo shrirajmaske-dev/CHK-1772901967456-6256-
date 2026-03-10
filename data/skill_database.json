@@ -1,0 +1,52 @@
+{
+  "Web Development": [
+    "html", "css", "javascript", "typescript", "react", "angular", "vue",
+    "nodejs", "express", "nextjs", "tailwind", "bootstrap", "sass", "webpack",
+    "graphql", "rest api", "responsive design", "jquery", "redux", "svelte"
+  ],
+  "Backend Development": [
+    "python", "java", "golang", "ruby", "php", "rust", "scala", "kotlin",
+    "django", "flask", "fastapi", "spring boot", "rails", "laravel",
+    "microservices", "grpc", "rabbitmq", "kafka", "celery", "redis"
+  ],
+  "Data Science": [
+    "pandas", "numpy", "matplotlib", "seaborn", "scikit-learn", "scipy",
+    "jupyter", "r", "statistics", "data wrangling", "feature engineering",
+    "exploratory data analysis", "regression", "classification", "clustering",
+    "time series", "tableau", "power bi", "excel", "spss"
+  ],
+  "AI / ML Engineering": [
+    "machine learning", "deep learning", "tensorflow", "pytorch", "keras",
+    "nlp", "computer vision", "transformers", "hugging face", "langchain",
+    "llm", "openai", "prompt engineering", "model deployment", "mlops",
+    "reinforcement learning", "neural networks", "bert", "gpt", "rag"
+  ],
+  "Cloud & DevOps": [
+    "aws", "azure", "gcp", "docker", "kubernetes", "terraform", "ansible",
+    "jenkins", "github actions", "ci/cd", "linux", "bash", "helm",
+    "cloudformation", "monitoring", "prometheus", "grafana", "nginx",
+    "load balancing", "serverless"
+  ],
+  "Databases": [
+    "sql", "mysql", "postgresql", "mongodb", "sqlite", "redis", "cassandra",
+    "dynamodb", "elasticsearch", "firebase", "orm", "database design",
+    "indexing", "query optimization", "data modeling", "nosql", "neo4j",
+    "influxdb", "mariadb", "bigquery"
+  ],
+  "Cybersecurity": [
+    "penetration testing", "ethical hacking", "network security", "cryptography",
+    "firewalls", "ids/ips", "siem", "vulnerability assessment", "owasp",
+    "ssl/tls", "oauth", "jwt", "zero trust", "soc", "threat intelligence",
+    "incident response", "burp suite", "metasploit", "nmap", "kali linux"
+  ],
+  "Mobile Development": [
+    "react native", "flutter", "swift", "kotlin", "android", "ios",
+    "xamarin", "ionic", "firebase", "app store deployment", "push notifications",
+    "mobile ui/ux", "sqlite mobile", "rest integration", "native apis"
+  ],
+  "Soft Skills": [
+    "communication", "teamwork", "problem solving", "leadership", "agile",
+    "scrum", "kanban", "time management", "critical thinking", "collaboration",
+    "presentation", "documentation", "mentoring", "code review", "pair programming"
+  ]
+}

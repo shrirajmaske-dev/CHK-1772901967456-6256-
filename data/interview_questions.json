@@ -1,0 +1,163 @@
+{
+  "python": [
+    "What are Python decorators and how do you use them?",
+    "Explain the difference between lists, tuples, and sets in Python.",
+    "How does Python's GIL affect multi-threading?",
+    "What is the difference between deepcopy and shallow copy?",
+    "Explain generators and their use cases."
+  ],
+  "machine learning": [
+    "What is the bias-variance tradeoff?",
+    "How do you handle class imbalance in a dataset?",
+    "Explain the difference between bagging and boosting.",
+    "What evaluation metrics would you use for a classification problem?",
+    "How do you prevent overfitting in a machine learning model?"
+  ],
+  "deep learning": [
+    "Explain the vanishing gradient problem and how to address it.",
+    "What is the difference between CNN and RNN architectures?",
+    "How does backpropagation work?",
+    "What is dropout and why is it used?",
+    "Explain batch normalization and its benefits."
+  ],
+  "react": [
+    "What is the Virtual DOM and how does React use it?",
+    "Explain the difference between controlled and uncontrolled components.",
+    "What are React hooks and how do they differ from class lifecycle methods?",
+    "How does the Context API work in React?",
+    "What is the purpose of useEffect and what are its dependencies?"
+  ],
+  "javascript": [
+    "What is the event loop in JavaScript?",
+    "Explain closures with an example.",
+    "What is the difference between == and === in JavaScript?",
+    "How does prototypal inheritance work?",
+    "What are Promises and how do they differ from async/await?"
+  ],
+  "sql": [
+    "What is the difference between INNER JOIN and LEFT JOIN?",
+    "How do you optimize a slow SQL query?",
+    "Explain the difference between WHERE and HAVING clauses.",
+    "What are indexes and when should you use them?",
+    "What is database normalization and what are normal forms?"
+  ],
+  "aws": [
+    "What is the difference between EC2 and Lambda?",
+    "How does S3 handle data durability and availability?",
+    "Explain the difference between SQS and SNS.",
+    "How would you architect a highly available application on AWS?",
+    "What is IAM and how do you manage permissions in AWS?"
+  ],
+  "docker": [
+    "What is the difference between a Docker image and a container?",
+    "How does Docker networking work?",
+    "What is a multi-stage build and when would you use it?",
+    "How do you persist data in Docker containers?",
+    "What is Docker Compose and when would you use it over Kubernetes?"
+  ],
+  "kubernetes": [
+    "What is the difference between a Pod, Deployment, and Service?",
+    "How does Kubernetes handle rolling updates?",
+    "What is a ConfigMap and how does it differ from a Secret?",
+    "Explain how Kubernetes manages resource limits and requests.",
+    "What is a Kubernetes Ingress and how does it work?"
+  ],
+  "nlp": [
+    "What is the difference between stemming and lemmatization?",
+    "How does TF-IDF work?",
+    "Explain the attention mechanism in Transformers.",
+    "What is word2vec and how does it represent semantic meaning?",
+    "How would you handle multilingual NLP tasks?"
+  ],
+  "tensorflow": [
+    "What is the difference between TensorFlow 1.x and 2.x?",
+    "How do you define a custom training loop in TensorFlow?",
+    "What is TensorFlow Serving and how does it work?",
+    "Explain the role of tf.data in building input pipelines.",
+    "How do you save and restore a TensorFlow model?"
+  ],
+  "pytorch": [
+    "What is the difference between torch.Tensor and torch.Variable?",
+    "How does autograd work in PyTorch?",
+    "What is the difference between model.eval() and model.train()?",
+    "How do you implement a custom loss function in PyTorch?",
+    "Explain DataLoader and Dataset classes in PyTorch."
+  ],
+  "html": [
+    "What is the difference between semantic and non-semantic HTML?",
+    "Explain the DOM and how JavaScript interacts with it.",
+    "What are data attributes in HTML5 and when would you use them?",
+    "How does the HTML rendering pipeline work in the browser?",
+    "What are Web Accessibility (ARIA) attributes and why are they important?"
+  ],
+  "css": [
+    "What is the difference between Flexbox and CSS Grid?",
+    "How does the CSS box model work?",
+    "Explain CSS specificity and how conflicts are resolved.",
+    "What are CSS custom properties (variables)?",
+    "How would you implement a responsive layout without a framework?"
+  ],
+  "nodejs": [
+    "What is the event-driven, non-blocking I/O model in Node.js?",
+    "How do you handle errors in asynchronous Node.js code?",
+    "What is the difference between process.nextTick() and setImmediate()?",
+    "How do you manage environment variables in a Node.js project?",
+    "What is cluster mode in Node.js and when would you use it?"
+  ],
+  "django": [
+    "What is the MTV pattern in Django?",
+    "How does Django's ORM handle database migrations?",
+    "What are Django signals and when would you use them?",
+    "Explain Django middleware and its execution order.",
+    "How do you optimize queryset performance in Django?"
+  ],
+  "flask": [
+    "What is the application context vs request context in Flask?",
+    "How do you structure a large Flask application using Blueprints?",
+    "How does Flask handle sessions and cookies?",
+    "What is Flask-SQLAlchemy and how does it integrate with Flask?",
+    "How do you implement authentication in a Flask app?"
+  ],
+  "pandas": [
+    "What is the difference between loc and iloc in Pandas?",
+    "How do you handle missing values in a DataFrame?",
+    "What is the purpose of groupby and how does it work?",
+    "How do you merge two DataFrames efficiently?",
+    "What is the difference between apply, map, and applymap?"
+  ],
+  "scikit-learn": [
+    "How does cross-validation work in scikit-learn?",
+    "What is a Pipeline in scikit-learn and why is it useful?",
+    "How do you perform hyperparameter tuning using GridSearchCV?",
+    "What is the purpose of StandardScaler and when should you use it?",
+    "How do you handle categorical features in scikit-learn?"
+  ],
+  "git": [
+    "What is the difference between git merge and git rebase?",
+    "How do you resolve a merge conflict in Git?",
+    "What is the difference between git pull and git fetch?",
+    "How does Git branching strategy work in a team environment?",
+    "What is a Git hook and how can it be used to enforce code quality?"
+  ],
+  "linux": [
+    "How do you find and kill a process in Linux?",
+    "Explain file permissions in Linux and how chmod works.",
+    "What is the difference between a hard link and a symbolic link?",
+    "How do you monitor system performance in Linux?",
+    "What is cron and how do you schedule tasks with it?"
+  ],
+  "agile": [
+    "What is the difference between Scrum and Kanban?",
+    "How do you estimate story points in an agile team?",
+    "What happens in a sprint retrospective?",
+    "How do you handle scope creep in an agile project?",
+    "What is the role of a Product Owner vs a Scrum Master?"
+  ],
+  "default": [
+    "Can you walk me through a challenging project you've worked on?",
+    "How do you stay updated with the latest trends in your field?",
+    "Describe your debugging process when you encounter an unfamiliar bug.",
+    "How do you approach learning a new technology quickly?",
+    "What's your approach to writing clean, maintainable code?"
+  ]
+}
