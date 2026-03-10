@@ -14,6 +14,50 @@ import json
 import os
 import streamlit as st
 
+st.set_page_config(
+    page_title="HireReady AI",
+    page_icon="🎯",
+    layout="wide"
+)
+
+# Custom Theme
+st.markdown(""""
+<style>
+
+.stApp {
+    background: linear-gradient(135deg, #0f172a, #020617);
+    color: white;
+}
+
+section[data-testid="stFileUploader"] {
+    background-color: #111827;
+    border-radius: 12px;
+    padding: 10px;
+}
+
+textarea {
+    background-color: #0f172a !important;
+    color: white !important;
+}
+
+.stButton>button {
+    background: linear-gradient(90deg,#6366f1,#8b5cf6);
+    color: white;
+    border-radius: 10px;
+    border: none;
+}
+
+div[data-testid="metric-container"] {
+    background-color: #111827;
+    border-radius: 12px;
+    padding: 10px;
+}
+
+</style>
+""", unsafe_allow_html=True)
+
+
+
 from resume_parser    import extract_resume_text, extract_resume_skills
 from jd_analyzer      import extract_jd_skills
 from similarity_engine import calculate_similarity
